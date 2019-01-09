@@ -19,4 +19,3 @@ class String
    d_self.length
  end
 end
-
